@@ -1,0 +1,8 @@
+paths:
+  static: ''
+  uploads: uploads
+timezone: Africa/Johannesburg
+markdown:
+  engine: commonmark
+  options: {}
+source: /
